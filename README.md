@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MAAM-Lab at NUAA (Nanjing University Of Aeronautics And Astronautics)
-- 👀 I’m interested in experimenta, computational and theorical research of Mechanics of Advanced Metallic Materials
+- 👋 Hi, I’m @MAMM-Lab at NUAA (Nanjing University Of Aeronautics And Astronautics)
+- 👀 I’m interested in experimenta, computational and theorical research of Mechanics of Advanced Metallic Materials (MAMM)
 
 
 <!---
